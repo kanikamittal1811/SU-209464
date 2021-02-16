@@ -146,10 +146,26 @@ To develop a code which generates a json file(output.json) describing various ui
         conda config --add channels conda-forge
         conda install shapely
         ```
-    - for more detailed steps [link](https://towardsdatascience.com/install-shapely-on-windows-72b6581bb46c) 
+    - for more detailed steps [link](https://towardsdatascience.com/install-shapely-on-windows-72b6581bb46c)
+    
+ 7. Install some more dependencies(for streamlit webapp)
+    
+        ```
+        pip install streamlit==0.59
+        ```
+        
+    - if while installing streamlit it fail to install watchdog dependency try this
+        ```
+        pip install watchdog==0.10.6
+        ```   
 ---
 
 ### Run
+* To run streamlit web app execute command
+  ```
+  streamlit run streamlit_file.py
+  ```
+  - a web app opens in the default browser enter "input path" and "output" directory and click on "Start Running" button, all outputs will be displayed in the browser window.
 
 * To run the file execute command 
   ```
