@@ -1,0 +1,176 @@
+{
+    "compos": [
+        {
+            "column_min": 0,
+            "class": "Background",
+            "height": 303,
+            "row_max": 303,
+            "row_min": 0,
+            "clip_path": "REDUNDANT",
+            "width": 797,
+            "column_max": 797,
+            "id": 0
+        },
+        {
+            "width": 54,
+            "class": "Text",
+            "height": 27,
+            "column_min": 43,
+            "row_min": 33,
+            "column_max": 97,
+            "row_max": 60,
+            "clip_path": "data/out_5\\clips\\Text\\0.jpg",
+            "id": 0
+        },
+        {
+            "width": 25,
+            "class": "Text",
+            "height": 10,
+            "column_min": 300,
+            "row_min": 32,
+            "column_max": 325,
+            "row_max": 42,
+            "clip_path": "data/out_5\\clips\\Text\\1.jpg",
+            "id": 1
+        },
+        {
+            "width": 19,
+            "class": "Text",
+            "height": 9,
+            "column_min": 493,
+            "row_min": 33,
+            "column_max": 512,
+            "row_max": 42,
+            "clip_path": "data/out_5\\clips\\Text\\2.jpg",
+            "id": 2
+        },
+        {
+            "width": 10,
+            "class": "Compo",
+            "height": 11,
+            "column_min": 106,
+            "row_min": 49,
+            "column_max": 116,
+            "row_max": 60,
+            "clip_path": "data/out_5\\clips\\Compo\\3.jpg",
+            "id": 3
+        },
+        {
+            "width": 39,
+            "class": "Text",
+            "height": 9,
+            "column_min": 120,
+            "row_min": 50,
+            "column_max": 159,
+            "row_max": 59,
+            "clip_path": "data/out_5\\clips\\Text\\4.jpg",
+            "id": 4
+        },
+        {
+            "width": 167,
+            "class": "Compo",
+            "height": 18,
+            "column_min": 299,
+            "row_min": 49,
+            "column_max": 466,
+            "row_max": 67,
+            "clip_path": "data/out_5\\clips\\Compo\\5.jpg",
+            "id": 5
+        },
+        {
+            "width": 186,
+            "class": "Compo",
+            "height": 18,
+            "column_min": 493,
+            "row_min": 49,
+            "column_max": 679,
+            "row_max": 67,
+            "clip_path": "data/out_5\\clips\\Compo\\6.jpg",
+            "id": 6
+        },
+        {
+            "width": 25,
+            "class": "Text",
+            "height": 8,
+            "column_min": 43,
+            "row_min": 75,
+            "column_max": 68,
+            "row_max": 83,
+            "clip_path": "data/out_5\\clips\\Text\\7.jpg",
+            "id": 7
+        },
+        {
+            "width": 229,
+            "class": "Compo",
+            "height": 18,
+            "column_min": 43,
+            "row_min": 91,
+            "column_max": 272,
+            "row_max": 109,
+            "clip_path": "data/out_5\\clips\\Compo\\8.jpg",
+            "id": 8
+        },
+        {
+            "width": 53,
+            "class": "Compo",
+            "height": 26,
+            "column_min": 43,
+            "row_min": 123,
+            "column_max": 96,
+            "row_max": 149,
+            "clip_path": "data/out_5\\clips\\Compo\\9.jpg",
+            "id": 9
+        },
+        {
+            "width": 56,
+            "class": "Compo",
+            "height": 26,
+            "column_min": 111,
+            "row_min": 123,
+            "column_max": 167,
+            "row_max": 149,
+            "clip_path": "data/out_5\\clips\\Compo\\10.jpg",
+            "id": 10
+        },
+        {
+            "width": 101,
+            "class": "Compo",
+            "height": 26,
+            "column_min": 622,
+            "row_min": 123,
+            "column_max": 723,
+            "row_max": 149,
+            "clip_path": "data/out_5\\clips\\Compo\\11.jpg",
+            "id": 11
+        },
+        {
+            "width": 724,
+            "class": "Compo",
+            "height": 136,
+            "column_min": 44,
+            "row_min": 163,
+            "column_max": 768,
+            "row_max": 299,
+            "clip_path": "data/out_5\\clips\\Compo\\12.jpg",
+            "id": 12
+        },
+        {
+            "width": 9,
+            "class": "Block",
+            "height": 88,
+            "column_min": 748,
+            "row_min": 174,
+            "column_max": 757,
+            "row_max": 262,
+            "clip_path": "data/out_5\\clips\\Block\\13.jpg",
+            "id": 13
+        }
+    ],
+    "img": {
+        "shape": [
+            303,
+            797,
+            3
+        ]
+    }
+}
